@@ -1,0 +1,9 @@
+assets/img/
+assets/images/
+*.webp
+*.jpg
+*.jpeg
+*.png
+*.gif
+*.mp4
+*.zip
